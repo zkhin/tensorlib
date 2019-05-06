@@ -1,5 +1,5 @@
 """
-Our neural nets will be made up of layers. Each layer needs to pass its inputs forward and propagate gradients backward. For exmaple, a neural net might look like
+Our neural nets will be made up of layers. Each layer needs to pass its inputs forward and propagate gradients backward. For example, a neural net might look like
 
 inputs -> Linear -> Tanh -> Linear -> output
 """
