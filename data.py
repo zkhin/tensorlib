@@ -1,5 +1,5 @@
 """
-We'll feed inputs into our network in batches
+Feed inputs into our network in batches
 """
 import numpy as np
 from tensorlib.tensor import Tensor
