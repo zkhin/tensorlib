@@ -1,5 +1,5 @@
 """
-A neuralnet is a collection of layers. It behaves like a layer itself.
+The neuralnet is a collection of layers. It behaves like a layer itself for the purposes of extensibility.
 """
 
 from tensorlib.tensor import Tensor
